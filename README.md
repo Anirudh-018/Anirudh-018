@@ -12,11 +12,11 @@ Here are some ideas to get you started:
 - 😄 Hobbies: Puzzles,Quizzing,Coding.<br/>
 - 📫 How to reach me : mail :menonani7@gmail.com<br/>
 
-###social media
+###social media<br/>
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Twitter)](https://twitter.com/anirudhrk8)
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/anirudh-r-k-17103a233/)
 
-###languages known:
+###languages known:<br/>
 @Python<br/>
 @Java<br/>
 @Html<br/>
