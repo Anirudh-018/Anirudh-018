@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 - 🔭 I’m current studying in Sri Shakthi Institute of Engineering and Technology<br/>
 - 🌱 I’m currently learnig : Java,Html<br/>
 - 👯 I’m looking to collaborate on :Creative projects <br/>
-- 🤔 I’m looking for help with :Python extra modules.<br/>
+- 🤔 I’m looking for help with :Python extra modules, Flutter<br/>
 - 💬 Ask me about : Python,Bootstrap,C<br/>
 - 😄 Hobbies: Puzzles,Quizzing,Coding.<br/>
 - 📫 How to reach me : mail :menonani7@gmail.com<br/>
