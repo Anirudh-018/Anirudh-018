@@ -1,9 +1,4 @@
 ### Hi there 👋
-
-**Anirudh-018/Anirudh-018** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m current studying in Sri Shakthi Institute of Engineering and Technology<br/>
 - 🌱 I’m currently learnig : Java,Html<br/>
 - 👯 I’m looking to collaborate on :Creative projects <br/>
