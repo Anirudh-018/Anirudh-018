@@ -3,7 +3,7 @@
 - 🌱 I’m currently learnig : Nest JS,Machine Learning<br/>
 - 👯 I’m looking to collaborate on :Creative projects <br/>
 - 🤔 I’m looking for help with :Python extra modules, Flutter<br/>
-- 💬 Ask me about : Python,Java,C<br/>
+- 💬 Ask me about : Python,Java,C,Next JS<br/>
 - 😄 Hobbies: Puzzles,Quizzing,Coding.<br/>
 - 📫 How to reach me : mail :menonani7@gmail.com<br/>
 
